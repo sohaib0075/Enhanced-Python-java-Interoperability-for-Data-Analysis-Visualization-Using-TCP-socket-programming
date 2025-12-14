@@ -1,0 +1,2 @@
+# Enhanced-Python-java-Interoperability-for-Data-Analysis-Visualization-Using-TCP-socket-programming
+Python and Java represent two of the most widely used programming languages in modern computing. Python dominates fields such as data science, visualization, and automation due to libraries like Pandas, NumPy, Matplotlib, and Seaborn. Java is a cornerstone technology for enterprise software, graphical user interfaces, and large-scale applications.
